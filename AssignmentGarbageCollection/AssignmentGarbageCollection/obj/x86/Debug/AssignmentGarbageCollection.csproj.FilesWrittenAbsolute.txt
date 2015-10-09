@@ -1,0 +1,5 @@
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentGarbageCollection/AssignmentGarbageCollection/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentGarbageCollection/AssignmentGarbageCollection/bin/Debug/AssignmentGarbageCollection.exe.mdb
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentGarbageCollection/AssignmentGarbageCollection/bin/Debug/AssignmentGarbageCollection.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentGarbageCollection/AssignmentGarbageCollection/obj/x86/Debug/AssignmentGarbageCollection.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentGarbageCollection/AssignmentGarbageCollection/obj/x86/Debug/AssignmentGarbageCollection.exe.mdb
