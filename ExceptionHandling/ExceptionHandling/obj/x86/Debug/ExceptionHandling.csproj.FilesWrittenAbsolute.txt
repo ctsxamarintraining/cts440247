@@ -1,0 +1,5 @@
+/Users/kalidasan/Desktop/Shylaja/Training/C#/ExceptionHandling/ExceptionHandling/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kalidasan/Desktop/Shylaja/Training/C#/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe.mdb
+/Users/kalidasan/Desktop/Shylaja/Training/C#/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.exe.mdb
