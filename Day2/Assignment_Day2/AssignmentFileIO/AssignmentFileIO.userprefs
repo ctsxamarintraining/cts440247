@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="AssignmentFileIO/AssignmentFileIO.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssignmentFileIO/ByteArray.cs">
+    <Files>
+      <File FileName="AssignmentFileIO/JsonSerialization.cs" Line="43" Column="4" />
+      <File FileName="AssignmentFileIO/Program.cs" Line="36" Column="39" />
+      <File FileName="AssignmentFileIO/ByteArray.cs" Line="70" Column="1" />
+      <File FileName="AssignmentFileIO/RecursiveFolders.cs" Line="1" Column="1" />
+      <File FileName="AssignmentFileIO/ReverseContentsOfFile.cs" Line="38" Column="43" />
+      <File FileName="AssignmentFileIO/EncryptDecryptFileText.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

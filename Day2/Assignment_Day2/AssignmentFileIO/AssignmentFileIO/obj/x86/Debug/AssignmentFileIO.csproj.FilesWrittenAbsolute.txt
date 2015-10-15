@@ -1,0 +1,10 @@
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentFileIO/AssignmentFileIO/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentFileIO/AssignmentFileIO/bin/Debug/AssignmentFileIO.exe.mdb
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentFileIO/AssignmentFileIO/bin/Debug/AssignmentFileIO.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentFileIO/AssignmentFileIO/obj/x86/Debug/AssignmentFileIO.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/AssignmentFileIO/AssignmentFileIO/obj/x86/Debug/AssignmentFileIO.exe.mdb
+/Users/kalidasan/Desktop/Shylaja/Training/C#/Assignment_Day2/AssignmentFileIO/AssignmentFileIO/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kalidasan/Desktop/Shylaja/Training/C#/Assignment_Day2/AssignmentFileIO/AssignmentFileIO/bin/Debug/AssignmentFileIO.exe.mdb
+/Users/kalidasan/Desktop/Shylaja/Training/C#/Assignment_Day2/AssignmentFileIO/AssignmentFileIO/bin/Debug/AssignmentFileIO.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/Assignment_Day2/AssignmentFileIO/AssignmentFileIO/obj/x86/Debug/AssignmentFileIO.exe
+/Users/kalidasan/Desktop/Shylaja/Training/C#/Assignment_Day2/AssignmentFileIO/AssignmentFileIO/obj/x86/Debug/AssignmentFileIO.exe.mdb
