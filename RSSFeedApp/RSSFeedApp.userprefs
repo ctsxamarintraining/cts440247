@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="RSSFeedApp/RSSFeedApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RSSFeedApp/SubscribeToLinksViewController.cs">
+    <Files>
+      <File FileName="RSSFeedApp/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="RSSFeedApp/FeedViewController.cs" Line="1" Column="1" />
+      <File FileName="RSSFeedApp/ViewController.cs" Line="1" Column="1" />
+      <File FileName="RSSFeedApp/SubscribeToLinksViewController.cs" Line="1" Column="1" />
+      <File FileName="RSSFeedApp/Sqlite.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

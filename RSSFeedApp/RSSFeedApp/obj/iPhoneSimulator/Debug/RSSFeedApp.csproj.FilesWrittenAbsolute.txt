@@ -1,0 +1,16 @@
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UINavigationController-Nm1-pX-RrY.nib
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-pi0-gO-yIS.nib
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-yDs-u5-mpg.nib
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/pi0-gO-yIS-view-7wW-Bd-eeZ.nib
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/yDs-u5-mpg-view-o9O-4K-WdD.nib
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/optimized/
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/bin/iPhoneSimulator/Debug/RSSFeedApp.exe.mdb
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/bin/iPhoneSimulator/Debug/RSSFeedApp.exe
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/RSSFeedApp.exe
+/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/RSSFeedApp.exe.mdb

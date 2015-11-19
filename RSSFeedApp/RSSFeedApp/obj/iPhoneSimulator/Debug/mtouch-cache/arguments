@@ -1,0 +1,40 @@
+# Version: 9.0.1.29 (xcode7-c5: 1d27ac2)
+# [first argument, ignore] # /Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.0.1.29/bin/mtouch \
+	--cache \
+	/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/bin/iPhoneSimulator/Debug/RSSFeedApp.app \
+	--executable \
+	RSSFeedApp \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.0 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	--symbollist \
+	/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/MonoTouch.NUnitLite.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Mono.Data.Sqlite.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Data.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/kalidasan/Desktop/Shylaja/Training/XamarinIOS/Projects/RSSFeedApp/RSSFeedApp/bin/iPhoneSimulator/Debug//RSSFeedApp.exe \
